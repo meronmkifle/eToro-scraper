@@ -127,7 +127,6 @@ The scraper generates a JSON file with this structure:
 ⚠️ **This scraper is for educational purposes only.**
 - Respect eToro's Terms of Service
 - Use responsibly and don't overload their servers
-- Consider using official APIs if available
 - Don't use scraped data for commercial purposes without permission
 
 ### Limitations
