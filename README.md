@@ -4,14 +4,14 @@ A Python-based web scraper for extracting investor data from eToro profiles, inc
 
 ## Features
 
-- ✅ Scrapes investor profile information (copiers, AUM, risk score)
-- ✅ Extracts performance statistics (gain, returns, drawdown)
-- ✅ Captures trading statistics (win rate, total trades, avg profit/loss)
-- ✅ Gets portfolio holdings
-- ✅ Retrieves open trades and trade history
-- ✅ Auto-installs Chrome driver
-- ✅ Anti-detection measures
-- ✅ Exports data to JSON
+- Scrapes investor profile information (copiers, AUM, risk score)
+- Extracts performance statistics (gain, returns, drawdown)
+- Captures trading statistics (win rate, total trades, avg profit/loss)
+- Gets portfolio holdings
+- Retrieves open trades and trade history
+- Auto-installs Chrome driver
+- Anti-detection measures
+- Exports data to JSON
 
 ## Installation
 
